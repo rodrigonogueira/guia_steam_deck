@@ -68,3 +68,15 @@ Antes de entrar em pânico, uma maneira de resolver esse problema, se for realme
 6. De volta ao ```modo Desktop```, você encontrará a integridade da bateria na barra de tarefas. Deve estar acima de 90%, mas não necessariamente em 100% (embora possa estar em 100%). Há sempre uma pequena margem de erro.
 
 *Observação: as etapas de bateria acima são necessárias apenas se você estiver enfrentando algum tipo de problema de integridade da bateria.*
+
+## Formate seu cartão microSD
+
+Se você ainda não possui um, terá a melhor experiência usando um cartão microSD mencionando as seguintes palavras-chave: SDXC, U3, A2 e V30. Estes são os que você deseja. Quanto mais armazenamento, melhor. Eu tenho este.
+
+Além disso, não se preocupe com pequenas diferenças nas velocidades de leitura e gravação porque o Steam Deck atinge velocidades de leitura de cerca de 100 MB/s e velocidades de gravação de 90 MB/s.
+
+Agora, para formatar o cartão microSD: Pressione o botão Steam e role para baixo até Configurações. Em Sistema, você encontrará Formatar cartão SD. Cuidado, isso destruirá todos os arquivos do cartão.
+
+No entanto, você deseja fazer isso para obter a melhor compatibilidade. A formatação do meu cartão microSD demorou muito, então tome um café ou algo assim.
+
+E caso o processo falhe: como o usuário N7even explica no Reddit, se você usou o cartão microSD em outro dispositivo antes, formate o cartão microSD no seu PC com Windows para NTFS, reinicie o Steam Deck e coloque o cartão MicroSD de volta. agora deve formatar.
